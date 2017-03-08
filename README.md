@@ -1,2 +1,2 @@
 # SpokeOnline
-Amaze, Techincal Challenge: Full-Stack Web Development
+Amaze, Technical Challenge: Full-Stack Web Development
